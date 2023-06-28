@@ -1,2 +1,2 @@
-# Pre-curso-henry
-repositorio de prueba del modulo numero 2 de henry
+Este es un proyecto es una prueba de como creas un repositorio y clonarlo desde github a mi computadora
+
